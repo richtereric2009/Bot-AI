@@ -87,4 +87,4 @@ async def check(ctx):
         await ctx.send("Você não anexou nenhuma imagem.")
 
 
-bot.run("MTQ1MDkxMzU1MjM5MDE2NDUzMA.GC4zwK.SYiEYKXbJZN42swmmMuUlOrYpX02wGGFEm4e7o")
+bot.run("a")
