@@ -1,0 +1,1 @@
+A bot that can show descriptions for every day materials that compose everything you see, like metal, glass, plastic, paper, and organic. It also has an AI integrated that identifies, with computer vision, what an item is made with.
